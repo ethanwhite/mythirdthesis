@@ -1,5 +1,5 @@
 Thesis outline
 
 1. Collect Data
-2. ???
+2. Analyze Data
 3. Profit
